@@ -3,3 +3,10 @@
 
 ### Frontend : asp.net
 ### Backend  : C# and Oracle SQL
+
+## Group members
+
+### Furkan Erdöl
+### Salih Bektaş
+### Osman Süzer
+### Serhat Güzel
