@@ -23,7 +23,7 @@
                 <nav>
                     <ul>
                         <li>
-                            <a href="recordUser.aspx">Record Me</a>
+                            <a href="recordUser.aspx">Sign Up</a>
                         </li>
                     </ul>
                 </nav>
