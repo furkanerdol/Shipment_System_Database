@@ -1,0 +1,254 @@
+﻿body {
+    background-color: #d5d5d5;
+    font-family: 'Trebuchet MS';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 60px;
+    width: 100%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 8px 10px;
+    text-decoration: none;
+    float: right;
+}
+
+    .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+    }
+
+#wrapper {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #555;
+}
+
+    a:hover {
+        color: #999;
+    }
+
+header {
+    width: 100%;
+    height: 45px;
+    background-color: #fff;
+}
+
+    header .logo {
+        float: left;
+        width: 135px;
+        height: 45px;
+        border-right: 1px solid #3498db;
+        text-align: center;
+        line-height: 45px;
+        color: #fff;
+        background-color: #3498db;
+    }
+
+    header nav {
+        float: right;
+        line-height: 45px;
+        margin-right: 20px;
+    }
+
+        header nav ul {
+            list-style: none;
+        }
+
+            header nav ul li {
+                float: left;
+                margin: 0 10px;
+                color: #555;
+            }
+
+.banner {
+    width: 960px;
+    height: 350px;
+    margin-top: 15px;
+    background-image: url("/images/drone.jpg");
+    background-size: cover;
+    text-align: center;
+    line-height: 360px;
+    font-size: 56px;
+}
+.aboutContent {
+    
+    margin-top: 20px;
+    width: 960px;
+    position: absolute;
+}
+
+.person1 {
+    width: 240px;
+    height: 200px;
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url("/images/furkan.jpg");
+    background-size: cover;
+}
+
+.person2 {
+    width: 240px;
+    height: 200px;
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url("/images/osman.jpg");
+    background-size: cover;
+}
+
+.person3 {
+    width: 240px;
+    height: 200px;
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url("/images/salih.jpg");
+    background-size: cover;
+}
+
+.person4 {
+    width: 240px;
+    height: 200px;
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url("/images/serhat.jpg");
+    background-size: cover;
+}
+
+h3 {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.content {
+    width: 100%;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    .content .signUp {
+        float: left;
+    }
+
+    .content .signUpForm {
+        float: left;
+        height: 421.5px;
+        padding: 17.5px;
+        color: #555;
+    }
+
+        .content .signUpForm .password {
+            margin-top: 15px;
+        }
+
+    .content .shipment {
+        float: left;
+    }
+
+    .content .shipmentForm {
+        float: left;
+        height: 420.5px;
+        padding: 17.5px;
+        color: #555;
+    }
+
+        .content .shipmentForm .phoneNumber,
+        .content .shipmentForm .weightOfCargo {
+            margin-top: 15px;
+        }
+
+        .content .shipmentForm .address #txtAddress {
+            height: 60px;
+        }
+
+    .content .track {
+        float: right;
+    }
+
+    .content .contentTitle {
+        float: left;
+        width: 270px;
+        height: 44px;
+        line-height: 44px;
+        padding-left: 15px;
+        border-bottom: 1px solid #ccc;
+        color: #555;
+        font-size: 18px;
+        background-color: #fff;
+    }
+
+    .content .trackForm {
+        float: left;
+        height: 420.5px;
+        padding: 17.5px;
+        color: #555;
+    }
+
+.column {
+    padding: 10px 10px 0 10px;
+    width: 300px;
+    height: 800px;
+    background-color: #fff;
+}
+
+
+footer {
+    width: 100%;
+    height: 35px;
+    background-color: #fff;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 35px;
+    color: #555;
+    font-size: 13px;
+}
+
+
+

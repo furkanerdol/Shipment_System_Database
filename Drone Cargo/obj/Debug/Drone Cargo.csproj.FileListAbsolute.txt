@@ -1,0 +1,262 @@
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe.config
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\csc.rsp
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\csi.exe
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\csi.rsp
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\System.AppContext.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe.config
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\vbc.rsp
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll.config
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\Drone Cargo.pdb
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.dll
+c:\belgelerim\visual studio 2017\Projects\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.pdb
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe.config
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csc.rsp
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csi.exe
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csi.rsp
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.AppContext.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe.config
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\vbc.rsp
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll.config
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\Drone Cargo.pdb
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.pdb
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.SqlServer.dll
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.xml
+C:\Users\Osman Süzer\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.SqlServer.xml
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe.config
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csc.rsp
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csi.exe
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\csi.rsp
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.AppContext.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe.config
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\vbc.rsp
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll.config
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\Drone Cargo.pdb
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.SqlServer.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.xml
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\EntityFramework.SqlServer.xml
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.dll
+C:\Users\Serhat\Desktop\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.pdb
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll.config
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\Drone Cargo.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\Drone Cargo.pdb
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.dll
+C:\Users\Furkan\Desktop\bddd\Drone Cargo\Drone Cargo\obj\Debug\Drone Cargo.pdb
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.exe
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.exe.config
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.rsp
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\csi.exe
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\csi.rsp
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.AppContext.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.exe
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.exe.config
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.rsp
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.dll.config
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.pdb
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.SqlServer.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.xml
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.SqlServer.xml
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.dll
+C:\Users\Osman Süzer\Documents\GitHub\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.pdb
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.pdb
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.exe
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.exe.config
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.rsp
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csi.exe
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csi.rsp
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.AppContext.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.exe
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.exe.config
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.rsp
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.dll.config
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.pdb
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.SqlServer.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.xml
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.SqlServer.xml
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osman Süzer\Desktop\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.dll.config
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\Drone Cargo.pdb
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.dll
+C:\Users\Furkan\Desktop\DatabeseFinalProject\Drone Cargo\obj\Debug\Drone Cargo.pdb
